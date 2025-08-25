@@ -21,12 +21,6 @@ Me chamo Igor Wendland, tenho 18 anos e sou natural de São Paulo. Concluí o en
 
 ###
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=vitorhenrique00&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=vitorhenrique00&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <div style="border: 4px solid #888; border-radius: 8px; padding: 10px; background-color: #f9f9f9; width: 320px; margin: 0 auto; text-align: center;">
